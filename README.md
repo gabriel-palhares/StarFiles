@@ -5,7 +5,7 @@
   
 ## Apresentação
 
-Meu nome é Gabriel Eduardo Palhares, tenho 24 anos, atualmente estou no segundo período do curso de Análise e Desenvolvimento de Sistemas na Faculdade PUC Minas. Sou apaixonado por tecnologia (antes como usuário, agora como desenvolvedor) e pelas possibilidades que ela nos traz. Sempre me surpreendo com as infinitas possibilidades que temos diante dela, um lugar onde podemos expressar nossa criatividade, sentimentos, conhecimentos e o mais legal de tudo: compartilhar isso com outras pessoas.
+Meu nome é Gabriel Eduardo Palhares, tenho 24 anos, atualmente estou no segundo período do curso de Análise e Desenvolvimento de Sistemas na Faculdade PUC Minas. Sou apaixonado por tecnologia (antes como usuário, agora como desenvolvedor) e pelas possibilidades que ela nos traz. Sempre me surpreendo com as infinitas possibilidades que temos diante dela, ela nos traz diversos lugares onde podemos expressar nossa criatividade, sentimentos, conhecimentos e o mais legal de tudo: compartilhar isso com outras pessoas.
 
 ## Sobre o Projeto
 
