@@ -183,7 +183,7 @@ i {
 
 .footer {
   text-align: center;
-  background: url(img/footer.png);
+  background: url(/img/footer.png);
   padding: 30px;
 }
 
@@ -193,7 +193,7 @@ i {
   padding: 20px 0 0;
 }
 
-.rodape{
+.rodape {
   display: flex;
   flex-direction: row;
   padding-top: 20px;
