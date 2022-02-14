@@ -17,7 +17,7 @@ Ao navegar pela página, você se depara com vários banners distribuídos em fo
 
 ## Links
 
-[StarFiles - webpage](https://gabriel-palhares.github.io/starfiles/)</br>
+[StarFiles - webpage](https://gabriel-palhares.github.io/StarFiles/)</br>
 [LinkedIn](https://www.linkedin.com/in/gabrielpalhares-)</br>
 [Plataforma da DIO](https://www.dio.me/)</br>
 [Banco Inter](https://www.bancointer.com.br/)
